@@ -17,9 +17,6 @@ In this case, this project will be used by working group No. 22.
 
 Members: 
 
-Bellido Zancarrón, Luis Miguel
+
 Diaz Fernandez, Marta
-Gálvez Dorado, César
-Grosso Gómez de Terreros, Javier
-Rodriguez Camino, Diego Miguel
 Rodríguez Osorio, Marcos
